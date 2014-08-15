@@ -7,7 +7,7 @@ Preview:
 ![Example](http://i.imgur.com/JMPn7ir.gif)
 
 
-**Live Demo**: [coming soon]
+**Live Demo**: [Live Demo](http://dboody.com)
 
 Setup and Implementation
 =======
