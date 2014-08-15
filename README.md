@@ -90,7 +90,7 @@ Help
 =======
 FAQ section coming soon.  Will update Readme to be more concise.
 
-**Please** email me with any questions or comments.  DylanRboudro@gmail.com
+***Please*** email me with any questions or comments.  DylanRBoudro@gmail.com
 
 
  
