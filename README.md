@@ -13,11 +13,11 @@ Setup and Implementation
 =======
 1. Download and Install  the vector graphics editor, [Inkscape](http://www.inkscape.org/en/download/).
 2. Open a new Inkscape Document.
-3. Create your desired Text in the Top-left corner of the document [Text Placement](http://i.imgur.com/lA7ti6n.png?1).
+3. Create your desired Text in the Top-left corner of the document ![Text Placement](http://i.imgur.com/lA7ti6n.png?1).
 4. Select your text with selection tool.
 5. From the Path menu, select Object --> Path
 6. Save as SVG
-7. Open SVG in a text-editor and remove extraneous code (seen below)[Extraneous Code](http://i.imgur.com/AWe6FjH.png?1).  
+7. Open SVG in a text-editor and remove extraneous code (seen below)![Extraneous Code](http://i.imgur.com/AWe6FjH.png?1).  
 
 *See index.html for an example of what SVG code is needed.  There is A LOT so cleaning it up makes life easier.*
 
