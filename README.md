@@ -1,11 +1,11 @@
 Animate Text via SVG
 =======
 This technique allows you to animate the drawing of text via converting text to SVG paths.
-
+Preview:
 ![Example](http://i.imgur.com/JMPn7ir.gif)
 
 
-Live Demo: [coming soon]
+**Live Demo**: [coming soon]
 
 Setup and Implementation
 =======
