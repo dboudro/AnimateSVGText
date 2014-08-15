@@ -24,6 +24,7 @@ Setup and Implementation
 CSS Implementation
 ----
 1. Make a div that wraps the SVG element.  Give the div an id and add the following CSS to your div:
+
  ```
  		#YOUR-SVG-CONTAINER { //ADJUST NAME TO MATCH YOUR ID
 			position: relative;
@@ -32,7 +33,9 @@ CSS Implementation
 			margin: 40vh auto 0 auto;
 		}
  ```
+ 
 2. Give your SVG element an id and add the following CSS to your SVG element 
+
  ```
  #svg-canvas {
 			position: relative;
@@ -40,10 +43,13 @@ CSS Implementation
 			height: 110px; //ADJUST HEIGHT TO MATCH HEIGHT OF YOUR TEXT
 		}
  ```
-3.  Make each <path> element look like:
+ 
+3.  Make each <path> element look like: 
+
  ```
  <path class="title" fill-opacity="0" stroke="#000" stroke-width="1.5"
  ```
+ 
 4. Add the following CSS to your stylesheet:  This CSS will take care of animating the text being drawn.
 ```
 .title {
