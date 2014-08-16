@@ -37,7 +37,7 @@ CSS Implementation
 2. Give your SVG element an id and add the following CSS to your SVG element 
 
  ```
- #svg-canvas {
+ #svg-canvas { //ADJUST NAME TO MATCH YOUR ID
 			position: relative;
 			width: 360px; //ADJUST WIDTH TO MATCH WIDTH OF YOUR TEXT
 			height: 110px; //ADJUST HEIGHT TO MATCH HEIGHT OF YOUR TEXT
