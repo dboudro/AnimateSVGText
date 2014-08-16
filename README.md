@@ -44,7 +44,7 @@ CSS Implementation
 		}
  ```
  
-3.  Make each <path> element look like: 
+3.  Make each path element look like: 
 
  ```
  <path class="title" fill-opacity="0" stroke="#000" stroke-width="1.5"
