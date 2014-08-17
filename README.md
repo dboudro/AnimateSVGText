@@ -57,7 +57,7 @@ CSS Implementation
  <path class="title" fill-opacity="0" stroke="#000" stroke-width="1.5"
  ```
  
-4. Add the following CSS to your stylesheet:  This CSS will take care of animating the text being drawn.  A clear and concise explanation of this code can be found [here](http://css-tricks.com/snippets/css/keyframe-animation-syntax/)
+4. Add the following CSS to your stylesheet:  This CSS will take care of animating the text being drawn.  A concise but thorough explanation of this code can be found [here](http://css-tricks.com/snippets/css/keyframe-animation-syntax/)
 ```
 .title {
 		stroke-dasharray: 500;
