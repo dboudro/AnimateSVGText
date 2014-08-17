@@ -13,7 +13,7 @@ Preview:
 
 ### Whats this all about?
 
-I want to help stretch the capabilities of the web.  SVG path animation is a trending technique in web-design allowing designers to draw simple and elegant icons (as seen [here](http://www.essential-icons.com/)).  Now, designers can easily apply this animation to text. 
+I want to help stretch the capabilities of the web.  SVG path animation is a trending technique in web-design allowing designers to draw simple and elegant icons (as seen [here](http://www.essential-icons.com/)).  Now, designers can easily apply SVG animations to text. 
 
 
 Setup and Implementation
