@@ -1,4 +1,4 @@
-Animate Text via SVG
+Animate Text with SVG Paths
 =======
 This technique allows you to animate the drawing of text via converting text to SVG paths.
 
@@ -8,6 +8,13 @@ Preview:
 
 
 ####**[Live Demo](http://dboody.com)**
+
+
+
+### Whats this all about?
+
+I want to help stretch the capabilities of the web.  SVG path animation is a trending technique in web-design allowing designers to draw simple and elegant icons (as seen [here](http://www.essential-icons.com/)).  Now, designers can easily apply this animation to text. 
+
 
 Setup and Implementation
 =======
@@ -50,7 +57,7 @@ CSS Implementation
  <path class="title" fill-opacity="0" stroke="#000" stroke-width="1.5"
  ```
  
-4. Add the following CSS to your stylesheet:  This CSS will take care of animating the text being drawn.
+4. Add the following CSS to your stylesheet:  This CSS will take care of animating the text being drawn.  A clear and concise explanation of this code can be found [here](http://css-tricks.com/snippets/css/keyframe-animation-syntax/)
 ```
 .title {
 		stroke-dasharray: 500;
@@ -86,11 +93,17 @@ CSS Implementation
 		}
 ```
 
-Help
+Solutions to Common Problems
 =======
-FAQ section coming soon.  Will update Readme to be more concise.
+---
+***Please*** email me with any questions, comments, or examples where you used this technique!  I will try my best to respond to emails addressed to DylanRBoudro@gmail.com within 24 hours.
+---
 
-***Please*** email me with any questions or comments.  DylanRBoudro@gmail.com
+### Trouble Installing Inkscape?
+[this link](http://www.inkscape.org/en/download/mac-os/) will help you install Inkscape on **Mac OS X**.
+
+
+
 
 
  
