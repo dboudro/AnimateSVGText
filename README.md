@@ -13,7 +13,7 @@ Preview:
 
 ### Whats this all about?
 
-This project furthers the ever-expanding design capabilities of the web.  SVG path animation is a trending technique in web-design allowing designers to draw simple and elegant icons (as seen [here](http://www.essential-icons.com/)).  Now, designers can easily apply SVG animations to text. 
+  SVG path animation is a trending technique in web-design allowing designers to draw simple and elegant icons (as seen [here](http://www.essential-icons.com/)).  Now, designers can easily apply SVG animations to text. 
 
 
 Setup and Implementation
