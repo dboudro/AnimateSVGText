@@ -15,9 +15,11 @@ Preview:
 
   SVG path animation is a trending technique in web-design allowing designers to draw simple and elegant icons (as seen [here](http://www.essential-icons.com/)).  Now, designers can easily apply SVG animations to text. 
 
+How to
+=====
 
 Step 1: General Setup and Implementation
-=======
+----
 1. Download and Install  the vector graphics editor, [Inkscape](http://www.inkscape.org/en/download/).
 2. Open a new Inkscape Document.
 3. Create your desired Text in the Top-left corner of the document ![Text Placement](http://i.imgur.com/lA7ti6n.png?1).
