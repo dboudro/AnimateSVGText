@@ -103,9 +103,6 @@ Solutions to Common Problems
 =======
 
 
-***Please*** email me with any questions, comments, or examples where you used this technique!  I will try my best to respond to emails addressed to DylanRBoudro@gmail.com within 24 hours.
-
-
 
 ### Trouble Installing Inkscape?
 [this link](http://www.inkscape.org/en/download/mac-os/) will help you install Inkscape on **Mac OS X**.
