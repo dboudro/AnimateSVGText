@@ -11,7 +11,6 @@ Preview:
 ![Example](http://i.imgur.com/JMPn7ir.gif)
 
 
-####**[Live Demo](http://dboody.com/port-projects/SVG-text/index.html)**
 
 
 
