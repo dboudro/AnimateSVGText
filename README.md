@@ -1,5 +1,5 @@
 
-##  Update: Since this technique was shared, there has been a huge progression in what is possible with SVG online. Rather than  following the technique written below, I highly suggest checking out [this article](http://noeticforce.com/Javascript-libraries-for-svg-animation) to find an SVG framework with built in tools that suit your needs!
+ if you are looking to do more with SVG than animate the drawing of text: I highly suggest checking out [this article](http://noeticforce.com/Javascript-libraries-for-svg-animation) to find an SVG framework with built in tools that suit your needs.
 
 
 Animate Text with SVG Paths
