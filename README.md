@@ -1,6 +1,7 @@
 
- if you are looking to do more with SVG than animate the drawing of text: I highly suggest checking out [this article](http://noeticforce.com/Javascript-libraries-for-svg-animation) to find an SVG framework with built in tools that suit your needs.
+note: if you are looking to do more with SVG than animate the drawing of text: I highly suggest checking out [this article](http://noeticforce.com/Javascript-libraries-for-svg-animation) to find an SVG framework with built in tools that suit your needs.
 
+=======
 
 Animate Text with SVG Paths
 =======
