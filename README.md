@@ -3,7 +3,7 @@ note: if you are looking to do more with SVG than animate the drawing of text: I
 
 =======
 
-Animate Text with SVG Paths
+#Animate Text with SVG Paths
 This technique allows you to animate the drawing of text via converting text to SVG paths.
 
 Preview:
